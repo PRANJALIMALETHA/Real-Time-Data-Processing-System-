@@ -28,18 +28,28 @@ The weather data is sourced from the [OpenWeatherMap API](https://openweathermap
    git clone https://github.com/PRANJALIMALETHA/Real-Time-Data-Processing-System-.git
 
 Install dependencies:
-2.pip install -r requirements.txt
 
+
+2.pip install -r requirements.txt
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Set up a .env file
+
+
 OPENWEATHER_API_KEY=your_api_key
 
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 Run the main application script:
+
 python src/main.py
 
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Run app.py
+Running on http://127.0.0.1:5000
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 To run the tests, you can use the following command
 pytest tests/
-
 
 
    
