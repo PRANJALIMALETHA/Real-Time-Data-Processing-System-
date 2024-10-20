@@ -1,4 +1,5 @@
 ## Project Overview
+Vedio Recording  Link-https://youtu.be/t_FZq1K-hJ0
 
 This project aims to develop a real-time data processing system for monitoring weather conditions using data retrieved from the OpenWeatherMap API. The system provides summarized insights through rollups and aggregates, including daily weather summaries and alerting for specified weather conditions.
 
@@ -51,8 +52,6 @@ Running on http://127.0.0.1:5000
 To run the tests, you can use the following command
 pytest tests/
 
-Recording link
-https://go.screenpal.com/watch/cZ6YlmVWMTu
 
 
    
