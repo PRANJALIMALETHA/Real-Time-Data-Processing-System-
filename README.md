@@ -51,5 +51,8 @@ Running on http://127.0.0.1:5000
 To run the tests, you can use the following command
 pytest tests/
 
+Recording link
+https://go.screenpal.com/watch/cZ6YlmVWMTu
+
 
    
